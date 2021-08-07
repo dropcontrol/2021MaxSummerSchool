@@ -4,3 +4,5 @@ I would like to share with you the Max patch that I used in my presentation "Mus
 
 The slides I used on that day can be viewed at the following link.
 https://docs.google.com/presentation/d/10we1FUCl01b0UG3ntw2cjZWdrnBXSmMHPoLwzmWHrcM/edit?usp=sharing
+
+Presentation on Max Summer School 2021: https://youtu.be/6M990l_F8Hs
